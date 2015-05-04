@@ -7,8 +7,8 @@ feature 'As a player I want to prepare for the game by placing ships.' do
   let(:ship) { Ship.new }
 
   scenario 'I can place a ship onto the board' do
-    player.place_ship(ship, :A1)
-    expect(board[:A1]).to eq(ship)
+    board.place_ship(ship, :A1)
+    expect(board.grid[:A1]).to eq(ship)
   end
 
 end

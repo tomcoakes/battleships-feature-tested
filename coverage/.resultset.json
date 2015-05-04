@@ -1,0 +1,30 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/tomcoakes/Dropbox/Coding/Development/testing/battleships-feature-tested/lib/player.rb": [
+        1,
+        null
+      ],
+      "/Users/tomcoakes/Dropbox/Coding/Development/testing/battleships-feature-tested/lib/ship.rb": [
+        1,
+        null
+      ],
+      "/Users/tomcoakes/Dropbox/Coding/Development/testing/battleships-feature-tested/lib/board.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        6,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1430747828
+  }
+}

@@ -2,3 +2,4 @@ language: ruby
 rvm:
   - 2.2.0
 script: bundle exec rspec spec
+env: CODECLIMATE_REPO_TOKEN=8fe4c4b15134a8791e08bc38c495123e65b9610e4c0eb0178ba5e316056c1e9a
